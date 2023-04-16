@@ -8,7 +8,9 @@ This project is an exploratory data analysis (EDA) of a sales dataset that aims 
 To get started with this project, you will need to have some knowledge of data analysis and visualization techniques. The project includes the following files:
 
 salesAnalysis.ipynb: This Jupyter notebook contains the code for the analysis and EDA.
-merged_data_csv: This file contains the raw data used in the analysis. # this will be uploaded soon
+
+#I couldn't upload the 'merged_data_csv' file due to its large size. However, I have uploaded a zip file containing individual monthly CSV files, which you can merge to obtain the same data set. Please refer to my Jupyter notebook for the process and method I used.
+
 README.md: This file contains a brief introduction to the project and instructions on how to run the Jupyter notebook.
 In the salesAnalysis.ipynb notebook, I have implemented various functions and techniques such as grouping, filtering, merging, cleaning missing values, handling outliers, and visualizing the data with bar plots, scatter plots, line charts, box plots, heatmaps, and more.
 
